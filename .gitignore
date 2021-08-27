@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac OS X
+.DS_Store
+
+# Data files
+.csv
+.gzip
+
+# Any data dir
+data/
+
+# Pycharm-specific folder
+.idea
+
+
